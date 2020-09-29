@@ -17,5 +17,4 @@
  * Linking
  * Arrays
  
- Have any questions, reach out to me by
- [email](ansa2343@colorado.edu)
+ Have any questions, reach out to me by email<mailto:ansa2343@colorado.edu>
