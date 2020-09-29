@@ -6,7 +6,7 @@
 ### Please use appropriately.
 ---
 **Data abstractions**
- * Stacks, 
+ * Stacks 
  * Queues
  * Lists
  * Trees
