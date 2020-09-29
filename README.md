@@ -1,7 +1,7 @@
 # Data Structures
 
-## Course Work all done in C++
+### Course Work all done in C++
 
-## Feel Free to check out any code.
-## Please use appropriately.
+### Feel Free to check out any code.
+### Please use appropriately.
 
